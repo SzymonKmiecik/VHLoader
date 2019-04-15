@@ -1,0 +1,6 @@
+0.Politechniczny bvh z 6 kana³ami dla ka¿dego wêz³a (59 wêz³ów) -g³êbokoœæ bia³a spacja
+0NORM0.Politechniczny bvh z 6 kana³ami dla ka¿dego wêz³a (59 wêz³ów) normalizowany wczeœniej -g³êbokoœæ bia³a spacja
+1.Politechniczny bvh z 6 kana³ami dla ka¿dego wêz³a (59 wêz³ów) -g³êbokoœæ bia³a spacja
+2.Znaleziony mo-cap z 6 kana³ami dla ka¿dego wêz³a (20 wêz³ów) -g³êbokoœæ bia³a spacja
+3.Znaleziony mo-cap z 6 kana³ami dla ka¿dego wêz³a (20 wêz³ów) -g³êbokoœæ bia³a spacja
+4.
